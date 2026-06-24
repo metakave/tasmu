@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="518px" height="33px" viewBox="0 0 518 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>1440_bar_yellow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="4.54747351e-13" width="518" height="32" rx="16"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="518" height="32" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="172" y="4.54747351e-13" width="1" height="32"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1" height="32" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="345" y="4.54747351e-13" width="1" height="32"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1" height="32" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="254" y="4" width="8" height="24" rx="4"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="28">
+            <rect x="252" y="2" width="12" height="28" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Other" transform="translate(-55.000000, -2632.000000)">
+            <g id="1440_bar_yellow" transform="translate(55.000000, 2632.004222)">
+                <use id="Rectangle-7-Copy-24" stroke="#FFD100" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M0,16 C0,7.163444 7.16347227,4.54747351e-13 16.006153,4.54747351e-13 L259,4.54747351e-13 L259,32 L16.006153,32 C7.16619881,32 0,24.8384989 0,16 L0,16 Z" id="Rectangle-7-Copy-25" fill="#FFD100"></path>
+                <use id="Rectangle-7-Copy-26" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                <use id="Rectangle-7-Copy-27" stroke="#FFD100" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                <g id="Rectangle-24-Copy">
+                    <use fill="#FFD100" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="4" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

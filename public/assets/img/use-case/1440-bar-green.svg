@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="518px" height="33px" viewBox="0 0 518 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>D658E73E-7561-44C0-9D7B-A12C364038F0</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="4.54747351e-13" width="518" height="32" rx="14"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="518" height="32" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="172" y="4.54747351e-13" width="1" height="32"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1" height="32" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="345" y="4.54747351e-13" width="1" height="32"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1" height="32" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="77" y="4" width="8" height="24" rx="4"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="12" height="28">
+            <rect x="75" y="2" width="12" height="28" fill="white"></rect>
+            <use xlink:href="#path-7" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Other" transform="translate(-55.000000, -2573.000000)">
+            <g id="1440_bar_green" transform="translate(55.000000, 2573.004222)">
+                <use id="Rectangle-7-Copy-28" stroke="#7ED321" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M0,16 C0,7.163444 7.17043437,4.72557526e-13 16.0029935,4.70426816e-13 L81,4.54747351e-13 L81,32 L16.0029935,32 C7.16478422,32 0,24.8384989 0,16 L0,16 Z" id="Rectangle-7-Copy-29" fill="#7ED321"></path>
+                <use id="Rectangle-7-Copy-30" stroke="#7ED321" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                <use id="Rectangle-7-Copy-31" stroke="#7ED321" mask="url(#mask-6)" stroke-width="2" xlink:href="#path-5"></use>
+                <g id="Rectangle-24-Copy">
+                    <use fill="#7ED321" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="4" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
