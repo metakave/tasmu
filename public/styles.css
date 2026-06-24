@@ -655,8 +655,15 @@ footer {
 }
 
 /* Switch logo to the colored version when navigation is scrolled (yellow background) */
-.fixed-nav .nav-home img {
-  content: url("/assets/images/l-o-g-o-v-b.svg");
+.scrolled-logo {
+  display: none !important;
 }
+.fixed-nav .scrolled-logo {
+  display: inline-block !important;
+}
+.fixed-nav .default-logo {
+  display: none !important;
+}
+
 
 
